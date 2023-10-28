@@ -1,0 +1,4062 @@
+[
+  {
+    "chapter" : 0,
+    "number" : "OB00-001",
+    "name" : "ツブレトマト"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-002",
+    "name" : "ツブレアオトマト"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-003",
+    "name" : "ジバクガエル"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-004",
+    "name" : "ミミトシシ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-005",
+    "name" : "タマゴン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-006",
+    "name" : "ケロゴン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-007",
+    "name" : "ウサミコ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-008",
+    "name" : "ウサヌシ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-009",
+    "name" : "アメト"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-010",
+    "name" : "赤のプリンセス"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-011",
+    "name" : "赤の王女"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-012",
+    "name" : "赤の女王"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-013",
+    "name" : "スライム"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-014",
+    "name" : "スライム・シルバー"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-015",
+    "name" : "スライム・ゴールド"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-016",
+    "name" : "スライム・マナ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-017",
+    "name" : "火竜のタマゴ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-018",
+    "name" : "プチドラゴン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-019",
+    "name" : "レッドゴン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-020",
+    "name" : "レッドラゴ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-021",
+    "name" : "レッドドラゴン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-022",
+    "name" : "太竜のタマゴ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-023",
+    "name" : "ベヒ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-024",
+    "name" : "ベヒモ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-025",
+    "name" : "ベヒモス"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-026",
+    "name" : "重竜ベヒモス"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-027",
+    "name" : "水竜のタマゴ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-028",
+    "name" : "チビドラゴン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-029",
+    "name" : "ブルゴン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-030",
+    "name" : "ブルドゴン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-031",
+    "name" : "鳥竜のタマゴ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-032",
+    "name" : "ドラコッコ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-033",
+    "name" : "ケツアル"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-034",
+    "name" : "戦士タンタ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-035",
+    "name" : "魔戦士タンタ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-036",
+    "name" : "白騎士クフリン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-037",
+    "name" : "黒騎士ゲボルグ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-038",
+    "name" : "召喚士キク"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-039",
+    "name" : "破戒僧キク"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-040",
+    "name" : "祭司キキク"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-041",
+    "name" : "呪師ツクヨミ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-042",
+    "name" : "ロボ弐式"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-043",
+    "name" : "ロボ弐式－陸戦型"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-044",
+    "name" : "ロボ参式"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-045",
+    "name" : "プロトタイプcodeIII"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-046",
+    "name" : "魔法使いジヨン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-047",
+    "name" : "黒魔法使いジヨン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-048",
+    "name" : "魔導師ジョンガリ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-049",
+    "name" : "暗黒司祭ジョンガリ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-050",
+    "name" : "アーサー"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-051",
+    "name" : "正騎士アーサー"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-052",
+    "name" : "ジーク"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-053",
+    "name" : "風のジーク"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-054",
+    "name" : "ラクシャーサ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-055",
+    "name" : "狂戦士ラクシャーサ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-056",
+    "name" : "ゼロ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-057",
+    "name" : "風魔の零"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-058",
+    "name" : "ライジイ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-059",
+    "name" : "雷鬼ナルカミ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-060",
+    "name" : "デメラ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-061",
+    "name" : "悪魔デメララ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-062",
+    "name" : "カブト"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-063",
+    "name" : "猛将カブト"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-064",
+    "name" : "クワガ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-065",
+    "name" : "勇将クワガ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-066",
+    "name" : "吟遊詩人キドリ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-067",
+    "name" : "スフク"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-068",
+    "name" : "死神モート"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-069",
+    "name" : "魔獣クイックシルバー"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-070",
+    "name" : "アヴァドン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-071",
+    "name" : "聖獣キリン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-072",
+    "name" : "王子マルドク"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-073",
+    "name" : "アシユラ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-074",
+    "name" : "魔王ムウス"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-075",
+    "name" : "蛇竜のタマゴ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-076",
+    "name" : "バイパー"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-077",
+    "name" : "ムシュ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-078",
+    "name" : "ムシュフ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-079",
+    "name" : "怒る蛇ムシュフシュ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-080",
+    "name" : "魔獣ギリメ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-081",
+    "name" : "瑞獣カイチ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-082",
+    "name" : "魔王リヴィエール"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-083",
+    "name" : "銀竜のタマゴ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-084",
+    "name" : "ギン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-085",
+    "name" : "シブイチ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-086",
+    "name" : "シロガネ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-087",
+    "name" : "シルバードラゴン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-088",
+    "name" : "破壊神マハデーヴァ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-089",
+    "name" : "白のリヴィエール"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-090",
+    "name" : "邪神ムウス"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-091",
+    "name" : "ヨーナシ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-092",
+    "name" : "スライム・ドラゴン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-093",
+    "name" : "マト"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-094",
+    "name" : "ベロ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-095",
+    "name" : "ケルベロス"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-096",
+    "name" : "ロル"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-097",
+    "name" : "ロレル"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-098",
+    "name" : "踊り子ロレル"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-099",
+    "name" : "火山弾"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-100",
+    "name" : "ヴォルド"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-101",
+    "name" : "ヴォルドン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-102",
+    "name" : "ヴォルケイノドラゴン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-103",
+    "name" : "炎の戦士バーン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-104",
+    "name" : "火炎の騎士バーン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-105",
+    "name" : "マジシャン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-106",
+    "name" : "レッド・マジシャン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-107",
+    "name" : "ドラン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-108",
+    "name" : "竜人ドラン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-109",
+    "name" : "ドーシュ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-110",
+    "name" : "弩使いドーシュ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-111",
+    "name" : "死神王モート"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-112",
+    "name" : "ラヴァ・レッドドラゴン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-113",
+    "name" : "参謀エンリル"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-114",
+    "name" : "覇将ネルガル"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-115",
+    "name" : "ロボ弐式－ジャンク"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-116",
+    "name" : "パズ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-117",
+    "name" : "悪魔剣士パズズ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-118",
+    "name" : "黒炎の戦士バーン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-119",
+    "name" : "獄炎の騎士バーン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-120",
+    "name" : "ゴールドドラゴン"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-121",
+    "name" : "ダムキナ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-122",
+    "name" : "老将エンキ"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-123",
+    "name" : "炎の召喚士ヒート"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-124",
+    "name" : "火炎召喚士ヒート"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-125",
+    "name" : "はぐれ勇者クルド"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-126",
+    "name" : "勇者クルド"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-127",
+    "name" : "黄金の騎士アーサー"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-128",
+    "name" : "赤のエンプレス"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-129",
+    "name" : "テアマト"
+  },
+  {
+    "chapter" : 0,
+    "number" : "OB00-130",
+    "name" : "狂王マルドク"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-001",
+    "name" : "クサレトマト"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-002",
+    "name" : "ケロゴン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-003",
+    "name" : "タツドン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-004",
+    "name" : "キュピィ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-005",
+    "name" : "黒竜のタマゴ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-006",
+    "name" : "クロドラゴン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-007",
+    "name" : "ファヴ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-008",
+    "name" : "グリ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-009",
+    "name" : "死神グリム"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-010",
+    "name" : "プチクラブ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-011",
+    "name" : "カニクラブ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-012",
+    "name" : "ロボ壱式"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-013",
+    "name" : "ロボ弐式 水陸両用型"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-014",
+    "name" : "ロボ参式 QQ型"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-015",
+    "name" : "バト"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-016",
+    "name" : "アルカ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-017",
+    "name" : "アルカード"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-018",
+    "name" : "ドラキュラ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-019",
+    "name" : "カメのタマゴ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-020",
+    "name" : "ヤドカメ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-021",
+    "name" : "カブトガメ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-022",
+    "name" : "グソクガメ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-023",
+    "name" : "仙竜ゲンブ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-024",
+    "name" : "ゴバクガエル"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-025",
+    "name" : "スライム・アビス"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-026",
+    "name" : "泡魔法使いポワン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-027",
+    "name" : "泡魔導師ポワン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-028",
+    "name" : "ウリエル"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-029",
+    "name" : "聖天使ウリエル"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-030",
+    "name" : "狩人ロビン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-031",
+    "name" : "狙撃手ロビン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-032",
+    "name" : "キリカマ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-033",
+    "name" : "惨将キリカマー"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-034",
+    "name" : "バチ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-035",
+    "name" : "知将バーチ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-036",
+    "name" : "シーサー"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-037",
+    "name" : "炎獣ヌエ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-038",
+    "name" : "氷獣ヌエ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-039",
+    "name" : "剣士ダンテ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-040",
+    "name" : "魔剣士ダンテ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-041",
+    "name" : "魔界の門番ダンテ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-042",
+    "name" : "レヴィ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-043",
+    "name" : "レヴィア"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-044",
+    "name" : "レヴィアタン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-045",
+    "name" : "ケツアルカトル"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-046",
+    "name" : "幻獣モノケロス"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-047",
+    "name" : "幻獣ディアケロス"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-048",
+    "name" : "ブルードラゴン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-049",
+    "name" : "死の剣士キドリ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-050",
+    "name" : "魔王アズール"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-051",
+    "name" : "氷結精"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-052",
+    "name" : "ブリザー"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-053",
+    "name" : "ブリゴン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-054",
+    "name" : "ブリザゴン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-055",
+    "name" : "ブリザードドラゴン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-056",
+    "name" : "サリエル"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-057",
+    "name" : "邪天使サリエル"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-058",
+    "name" : "堕天王サリエル"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-059",
+    "name" : "魔海王タツドン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-060",
+    "name" : "邪神アズール"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-061",
+    "name" : "ブルージェリー"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-062",
+    "name" : "ウニー"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-063",
+    "name" : "ロボ零壱式"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-064",
+    "name" : "コタコン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-065",
+    "name" : "オータコン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-066",
+    "name" : "海竜のしずく"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-067",
+    "name" : "リムゴン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-068",
+    "name" : "トリムゴン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-069",
+    "name" : "海竜ストリームドラゴン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-070",
+    "name" : "ブリュー"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-071",
+    "name" : "ロボ零弐式"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-072",
+    "name" : "水の戦士フロウ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-073",
+    "name" : "流水の騎士フロウ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-074",
+    "name" : "サエザー"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-075",
+    "name" : "棘騎士サエザー"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-076",
+    "name" : "ケルー"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-077",
+    "name" : "幻獣戦士ケルー"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-078",
+    "name" : "魔法少女マジナ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-079",
+    "name" : "マジカルマジナ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-080",
+    "name" : "ブルーマジシャン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-081",
+    "name" : "狙撃名手ロビン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-082",
+    "name" : "アポロン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-083",
+    "name" : "クリア・ブルードラゴン"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-084",
+    "name" : "ロボ零参式"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-085",
+    "name" : "コッパミジンコ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-086",
+    "name" : "ソラクジラ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-087",
+    "name" : "フリート"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-088",
+    "name" : "ジークフリート"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-089",
+    "name" : "魔海兵ブリュー"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-090",
+    "name" : "棘竜ゲンブ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-091",
+    "name" : "幻獣騎士ケルー"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-092",
+    "name" : "ロボ零四式"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-093",
+    "name" : "ギョ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-094",
+    "name" : "ギョギョ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-095",
+    "name" : "力天使デナミス"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-096",
+    "name" : "魔海魚ブブリ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-097",
+    "name" : "ビャッコ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-098",
+    "name" : "聖天王ウリエル"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-099",
+    "name" : "魔海将フィスカ"
+  },
+  {
+    "chapter" : 1,
+    "number" : "OB01-100",
+    "name" : "ロボ零式"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-001",
+    "name" : "ツブレプチトマト"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-002",
+    "name" : "ケロゴン"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-003",
+    "name" : "バクチガエル"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-004",
+    "name" : "サソーピ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-005",
+    "name" : "サソーピオン"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-006",
+    "name" : "ベージ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-007",
+    "name" : "古神兵サルベージ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-008",
+    "name" : "岩竜のタマゴ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-009",
+    "name" : "ロック"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-010",
+    "name" : "ロックドン"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-011",
+    "name" : "ロックドラン"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-012",
+    "name" : "岩竜ロックドラゴン"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-013",
+    "name" : "スライム・フレア"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-014",
+    "name" : "スライム・アース"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-015",
+    "name" : "ジャンヌ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-016",
+    "name" : "銃士ダルタ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-017",
+    "name" : "魔銃士ダルタ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-018",
+    "name" : "幻銃士ダルタン"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-019",
+    "name" : "魔幻銃士ダルタン"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-020",
+    "name" : "マミー"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-021",
+    "name" : "神官イムー"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-022",
+    "name" : "イムホテプ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-023",
+    "name" : "大神官イムホテプ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-024",
+    "name" : "サンダル"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-025",
+    "name" : "メタトロ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-026",
+    "name" : "タガメ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-027",
+    "name" : "狂将タガメ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-028",
+    "name" : "スフク・ナイル"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-029",
+    "name" : "砂獣ヌエ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-030",
+    "name" : "アヌビス"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-031",
+    "name" : "ルシフ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-032",
+    "name" : "赤魔導ミミ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-033",
+    "name" : "青魔導シシ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-034",
+    "name" : "獄卒ゴズ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-035",
+    "name" : "獄卒メズ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-036",
+    "name" : "ファヴニ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-037",
+    "name" : "暗黒竜ファヴニール"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-038",
+    "name" : "魔人イフリート"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-039",
+    "name" : "ロック鳥ルフ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-040",
+    "name" : "魔王サッカーラ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-041",
+    "name" : "竜のズコツ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-042",
+    "name" : "ボーン"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-043",
+    "name" : "ボーンド"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-044",
+    "name" : "ボーンドラゴ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-045",
+    "name" : "スカルボーンドラゴン"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-046",
+    "name" : "英雄ジャンヌ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-047",
+    "name" : "ミカエ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-048",
+    "name" : "魔人ジン"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-049",
+    "name" : "獄長牛頭馬頭"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-050",
+    "name" : "邪神サッカーラ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-051",
+    "name" : "スライム・ビースト"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-052",
+    "name" : "ガラネズミ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-053",
+    "name" : "プチジゴク"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-054",
+    "name" : "オオジゴク"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-055",
+    "name" : "竜灰"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-056",
+    "name" : "アッシュ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-057",
+    "name" : "アッシュドラン"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-058",
+    "name" : "灰竜アッシュドラゴン"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-059",
+    "name" : "土の戦士ロック"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-060",
+    "name" : "大地の闘士ロック"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-061",
+    "name" : "剣奴タクス"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-062",
+    "name" : "剣闘士タクス"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-063",
+    "name" : "ランチュラ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-064",
+    "name" : "砂縛のランチュラ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-065",
+    "name" : "ステゴ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-066",
+    "name" : "恐竜戦士ステゴ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-067",
+    "name" : "ドクトル"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-068",
+    "name" : "スフク・オアシス"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-069",
+    "name" : "神官神イムホテプ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-070",
+    "name" : "冥界神アヌビス"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-071",
+    "name" : "ラー"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-072",
+    "name" : "冥王竜ファヴニール"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-073",
+    "name" : "魔神アープ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-074",
+    "name" : "大魔神ジン"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-075",
+    "name" : "ジーベ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-076",
+    "name" : "牢戦士ジェイル"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-077",
+    "name" : "脱獄戦士ジェイル"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-078",
+    "name" : "アンキロ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-079",
+    "name" : "恐竜戦士アンキロ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-080",
+    "name" : "大地の騎士ロック"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-081",
+    "name" : "大魔導ミミトシシ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-082",
+    "name" : "魔神グノーム"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-083",
+    "name" : "吸血竜のタマゴ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-084",
+    "name" : "ヴァン"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-085",
+    "name" : "ヴァンプドラゴ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-086",
+    "name" : "吸血竜ヴァンプスドラゴン"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-087",
+    "name" : "DJホップ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-088",
+    "name" : "古神官ホップ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-089",
+    "name" : "無幻勇士ジャンヌ"
+  },
+  {
+    "chapter" : 2,
+    "number" : "OB02-090",
+    "name" : "大魔神イフリート"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-001",
+    "name" : "ケロゴン"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-002",
+    "name" : "カッパ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-003",
+    "name" : "メドゥシアナ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-004",
+    "name" : "女帝メドゥーサ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-005",
+    "name" : "カラス"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-006",
+    "name" : "カラステング"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-007",
+    "name" : "カルラ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-008",
+    "name" : "イナリ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-009",
+    "name" : "ヤコ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-010",
+    "name" : "ダッキ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-011",
+    "name" : "ヤマタマゴ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-012",
+    "name" : "ツチ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-013",
+    "name" : "オロツチ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-014",
+    "name" : "オオオロチ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-015",
+    "name" : "ヤマタノオロチ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-016",
+    "name" : "スライム・エアロ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-017",
+    "name" : "キュピィ・怒"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-018",
+    "name" : "竜騎兵レオン"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-019",
+    "name" : "黒竜騎兵レオン"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-020",
+    "name" : "竜騎士レオン"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-021",
+    "name" : "暗黒竜騎士レオン"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-022",
+    "name" : "魔法騎士マジカ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-023",
+    "name" : "魔導騎士マジカ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-024",
+    "name" : "フウジイ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-025",
+    "name" : "風鬼フウハク"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-026",
+    "name" : "アゲハ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-027",
+    "name" : "舞将アゲハ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-028",
+    "name" : "アスタ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-029",
+    "name" : "悪魔アスタロ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-030",
+    "name" : "魔公爵アスタロト"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-031",
+    "name" : "闇のジーク"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-032",
+    "name" : "月風魔"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-033",
+    "name" : "雷獣ヌエ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-034",
+    "name" : "天馬ユニコーン"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-035",
+    "name" : "ロボ四式"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-036",
+    "name" : "ロボ四式 要塞型"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-037",
+    "name" : "龍神ククルカン"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-038",
+    "name" : "ヤマト"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-039",
+    "name" : "雨神ミトラ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-040",
+    "name" : "魔王ナナワライ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-041",
+    "name" : "セキト"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-042",
+    "name" : "漆黒の竜騎士レオン"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-043",
+    "name" : "スサノヲ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-044",
+    "name" : "雷神インドラ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-045",
+    "name" : "金竜のタマゴ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-046",
+    "name" : "ファン"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-047",
+    "name" : "ファファン"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-048",
+    "name" : "ファンロー"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-049",
+    "name" : "竜帝ファンロン"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-050",
+    "name" : "邪神ナナワライ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-051",
+    "name" : "キジムナー"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-052",
+    "name" : "ヤクビョーガミ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-053",
+    "name" : "大樹竜の球根"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-054",
+    "name" : "ルートン"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-055",
+    "name" : "ルートドラン"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-056",
+    "name" : "大樹竜ルートドラゴン"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-057",
+    "name" : "風の戦士ハヤテ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-058",
+    "name" : "風隠の戦士ハヤテ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-059",
+    "name" : "オニワカ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-060",
+    "name" : "僧兵オニワカ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-061",
+    "name" : "サスケ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-062",
+    "name" : "風忍サスケ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-063",
+    "name" : "ユタ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-064",
+    "name" : "弓使いユタ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-065",
+    "name" : "クルースニク"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-066",
+    "name" : "クドラク"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-067",
+    "name" : "アメノウズメ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-068",
+    "name" : "女神アメノウズメ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-069",
+    "name" : "飛天カルラ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-070",
+    "name" : "神獣シーサー"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-071",
+    "name" : "ハクシカ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-072",
+    "name" : "神樹竜ククルカン"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-073",
+    "name" : "ナンクルマル"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-074",
+    "name" : "神人ニラーハラー"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-075",
+    "name" : "カタキラウワ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-076",
+    "name" : "ダークマジカ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-077",
+    "name" : "ダークネスマジカ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-078",
+    "name" : "デスプラント"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-079",
+    "name" : "デスフィアープラント"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-080",
+    "name" : "波動剣士風魔"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-081",
+    "name" : "神鳥ガルーダ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-082",
+    "name" : "風隠の族長オロシ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-083",
+    "name" : "シロッチ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-084",
+    "name" : "祟神スサノヲ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-085",
+    "name" : "疾風の騎士ハヤテ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-086",
+    "name" : "ニライ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-087",
+    "name" : "カナイ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-088",
+    "name" : "魔導騎士カオスマジカ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-089",
+    "name" : "風隠の支配者オロシ"
+  },
+  {
+    "chapter" : 3,
+    "number" : "OB03-090",
+    "name" : "鬼神ニラーハラー"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-001",
+    "name" : "レッドジェリー"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-002",
+    "name" : "マゴラ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-003",
+    "name" : "シルフ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-004",
+    "name" : "ノーム"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-005",
+    "name" : "ピート"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-006",
+    "name" : "魔王のトリタマゴ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-007",
+    "name" : "チビムウス"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-008",
+    "name" : "コッコ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-009",
+    "name" : "コカトリス"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-010",
+    "name" : "炎竜のタマゴ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-011",
+    "name" : "マンダー"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-012",
+    "name" : "ラマンダー"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-013",
+    "name" : "サラマンダー"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-014",
+    "name" : "炎竜サラマンダー"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-015",
+    "name" : "ロボ弐式 火炎放射型"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-016",
+    "name" : "熱戦士アレス"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-017",
+    "name" : "熱剣士アレス"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-018",
+    "name" : "ヴァル"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-019",
+    "name" : "ヴァルカン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-020",
+    "name" : "商人アリ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-021",
+    "name" : "大商人アリバ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-022",
+    "name" : "重戦士クラン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-023",
+    "name" : "重装騎士クラン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-024",
+    "name" : "地獄の戦士ドクロ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-025",
+    "name" : "冥界の騎士ドクロ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-026",
+    "name" : "召喚士キカ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-027",
+    "name" : "霊媒師キキカ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-028",
+    "name" : "フルド"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-029",
+    "name" : "フルドフォルク"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-030",
+    "name" : "メタトロン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-031",
+    "name" : "バジリスク"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-032",
+    "name" : "アテナ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-033",
+    "name" : "女神パラスアテナ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-034",
+    "name" : "ゴーレム"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-035",
+    "name" : "不死鳥フェニックス"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-036",
+    "name" : "聖騎士クフリン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-037",
+    "name" : "闇騎士ゲボルグ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-038",
+    "name" : "堕天使ルシフェル"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-039",
+    "name" : "スカーレッド・ドラゴン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-040",
+    "name" : "魔皇ラフロイグ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-041",
+    "name" : "黒炎竜の火種"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-042",
+    "name" : "ダークサラマンダー"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-043",
+    "name" : "黒炎竜サラマンダー"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-044",
+    "name" : "勇者タンタ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-045",
+    "name" : "魔装騎士クラン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-046",
+    "name" : "魔王のヒメタマゴ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-047",
+    "name" : "チヴィエール"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-048",
+    "name" : "近衛隊長バルト"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-049",
+    "name" : "ジェネラル・バルト"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-050",
+    "name" : "邪帝ラフロイグ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-051",
+    "name" : "スライム・デビル"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-052",
+    "name" : "ウィル・オ・ウィスプ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-053",
+    "name" : "鉄のタマゴ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-054",
+    "name" : "アイドン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-055",
+    "name" : "アインドラン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-056",
+    "name" : "黒鉄竜アイアンドラゴン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-057",
+    "name" : "キングノーム"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-058",
+    "name" : "鉄戦士クロム"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-059",
+    "name" : "鋼騎士クロム"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-060",
+    "name" : "斧使いゼノビア"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-061",
+    "name" : "戦斧闘士ゼノビア"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-062",
+    "name" : "マーリン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-063",
+    "name" : "悪魔法使いマーリン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-064",
+    "name" : "鏡戦士リフレク"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-065",
+    "name" : "魔鏡騎士リフレク"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-066",
+    "name" : "アルフ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-067",
+    "name" : "アルフリック"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-068",
+    "name" : "ピートー"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-069",
+    "name" : "オーガ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-070",
+    "name" : "魔剣王パズズ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-071",
+    "name" : "火炎の勇者バーン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-072",
+    "name" : "アスモデウス"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-073",
+    "name" : "ファントム"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-074",
+    "name" : "煉獄皇アレス"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-075",
+    "name" : "アヴァドンフード"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-076",
+    "name" : "魔王アヴァドン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-077",
+    "name" : "邪神チビムウス"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-078",
+    "name" : "シルフィード"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-079",
+    "name" : "炎獣人ヴァルカン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-080",
+    "name" : "大富豪アリバ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-081",
+    "name" : "メタルゴーレム"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-082",
+    "name" : "灼鉄竜スティールドラゴン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-083",
+    "name" : "アルレッキーノ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-084",
+    "name" : "白のチヴィエール"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-085",
+    "name" : "デーモン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-086",
+    "name" : "熱鋼騎士クロム"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-087",
+    "name" : "悪魔導師マーリン"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-088",
+    "name" : "終焉の騎士ドクロ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-089",
+    "name" : "魔将ガープ"
+  },
+  {
+    "chapter" : 4,
+    "number" : "OB04-090",
+    "name" : "煉獄帝アレス"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-001",
+    "name" : "ペンタ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-002",
+    "name" : "ぶんぶく"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-003",
+    "name" : "ブブ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-004",
+    "name" : "ロボ壱式 採掘型"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-005",
+    "name" : "プチーカ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-006",
+    "name" : "クラーケン"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-007",
+    "name" : "プチタラバ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-008",
+    "name" : "カニタラバ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-009",
+    "name" : "クリオネ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-010",
+    "name" : "人魚メロウ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-011",
+    "name" : "マーメイドメロウ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-012",
+    "name" : "人魚セイレン"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-013",
+    "name" : "魔人魚セイレン"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-014",
+    "name" : "凍竜のタマゴ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-015",
+    "name" : "フロス"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-016",
+    "name" : "フロドラ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-017",
+    "name" : "フロスドラゴ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-018",
+    "name" : "凍竜フロストドラゴン"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-019",
+    "name" : "海賊アズール"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-020",
+    "name" : "キャプテン・アズール"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-021",
+    "name" : "海賊アンカー"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-022",
+    "name" : "怒の海賊アンカー"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-023",
+    "name" : "ヨルド"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-024",
+    "name" : "ヴァイキングヨルド"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-025",
+    "name" : "小赤鬼"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-026",
+    "name" : "赤鬼"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-027",
+    "name" : "ハーピー"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-028",
+    "name" : "ハルピュイア"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-029",
+    "name" : "モアイ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-030",
+    "name" : "古代兵器モアイ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-031",
+    "name" : "ラファエル"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-032",
+    "name" : "ガブリエル"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-033",
+    "name" : "サンダルフォン"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-034",
+    "name" : "フェンリル"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-035",
+    "name" : "暗黒大魔導ジョンガリ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-036",
+    "name" : "魔海の守護者ポワン"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-037",
+    "name" : "トール"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-038",
+    "name" : "大天使ミカエル"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-039",
+    "name" : "グランブルー・ドラゴン"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-040",
+    "name" : "魔皇クジェスカ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-041",
+    "name" : "盗賊ユライ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-042",
+    "name" : "大泥棒ユライ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-043",
+    "name" : "魔王ベルゼブブ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-044",
+    "name" : "大将軍カブト"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-045",
+    "name" : "時空竜ビックバイパー"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-046",
+    "name" : "ヘイムダル"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-047",
+    "name" : "氷の騎士スタルカ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-048",
+    "name" : "氷の魔法使いメロウ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-049",
+    "name" : "魔海の番人ダンテ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-050",
+    "name" : "邪帝クジェスカ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-051",
+    "name" : "ペンスケ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-052",
+    "name" : "マシュまろ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-053",
+    "name" : "イエティ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-054",
+    "name" : "イエイエティ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-055",
+    "name" : "竜氷山"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-056",
+    "name" : "グレド"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-057",
+    "name" : "グレイドン"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-058",
+    "name" : "グレイシアドラゴン"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-059",
+    "name" : "竜皇フェイロン"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-060",
+    "name" : "雪戦士スノー"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-061",
+    "name" : "氷騎士スノー"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-062",
+    "name" : "ガイザー"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-063",
+    "name" : "手甲戦士ガイザー"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-064",
+    "name" : "海賊ヴィラ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-065",
+    "name" : "パイレーツ・ヴィラ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-066",
+    "name" : "バイオレ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-067",
+    "name" : "バイオ・ジェスター"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-068",
+    "name" : "トルンスカ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-069",
+    "name" : "氷の魔導師トルンスカ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-070",
+    "name" : "アイシー"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-071",
+    "name" : "アイシクル"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-072",
+    "name" : "アバランシェ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-073",
+    "name" : "流水の勇者フロウ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-074",
+    "name" : "海王バローロ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-075",
+    "name" : "深海タマゴ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-076",
+    "name" : "サーペン"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-077",
+    "name" : "シーサーペント"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-078",
+    "name" : "魔海竜シーサーペント"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-079",
+    "name" : "エイリーク"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-080",
+    "name" : "アフロディテ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-081",
+    "name" : "ジレット"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-082",
+    "name" : "俊速ジレット"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-083",
+    "name" : "闘牛士ロメロ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-084",
+    "name" : "マタドールロメロ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-085",
+    "name" : "キャプテン・ペンタ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-086",
+    "name" : "アズール"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-087",
+    "name" : "メロウ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-088",
+    "name" : "氷海騎士スノー"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-089",
+    "name" : "巫女ラムーネ"
+  },
+  {
+    "chapter" : 5,
+    "number" : "OB05-090",
+    "name" : "神海帝バローロ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-001",
+    "name" : "ゴースト"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-002",
+    "name" : "アヌー"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-003",
+    "name" : "シャックル"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-004",
+    "name" : "ミラ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-005",
+    "name" : "カーミラ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-006",
+    "name" : "レディ・カーミラ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-007",
+    "name" : "キャミネコ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-008",
+    "name" : "キャミ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-009",
+    "name" : "魔女キャミ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-010",
+    "name" : "悪魔女ギャミス"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-011",
+    "name" : "白竜のタマゴ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-012",
+    "name" : "パール"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-013",
+    "name" : "パドラ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-014",
+    "name" : "ホワイドラゴ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-015",
+    "name" : "ホワイトドラゴン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-016",
+    "name" : "ダイヤ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-017",
+    "name" : "光の戦士ダイヤ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-018",
+    "name" : "聖堂騎士ユーグ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-019",
+    "name" : "聖堂騎士長ユーグ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-020",
+    "name" : "ゾンビ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-021",
+    "name" : "ゾンビビ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-022",
+    "name" : "デュラ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-023",
+    "name" : "デュラハン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-024",
+    "name" : "首無騎士デュラハン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-025",
+    "name" : "黒騎士エッジ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-026",
+    "name" : "暗黒騎士エッジ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-027",
+    "name" : "魔界騎士エッジ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-028",
+    "name" : "僧侶クリフ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-029",
+    "name" : "大僧侶クリフ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-030",
+    "name" : "賢者ソロン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-031",
+    "name" : "フランケンボーイ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-032",
+    "name" : "フランケン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-033",
+    "name" : "シモン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-034",
+    "name" : "ピラミッドヘッド"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-035",
+    "name" : "無幻銃士ダルタン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-036",
+    "name" : "魔帝アブシール"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-037",
+    "name" : "ロキ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-038",
+    "name" : "猛毒竜ベヒモス"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-039",
+    "name" : "漆黒竜ファヴニール"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-040",
+    "name" : "魔皇トカイ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-041",
+    "name" : "カボタン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-042",
+    "name" : "カボランタン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-043",
+    "name" : "ジャックランタン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-044",
+    "name" : "ダークドラゴ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-045",
+    "name" : "ダークボーンドラゴン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-046",
+    "name" : "獣戦士ライオ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-047",
+    "name" : "百獣戦士ライオ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-048",
+    "name" : "アイアンメイデン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-049",
+    "name" : "獄王閻魔"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-050",
+    "name" : "邪帝トカイ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-051",
+    "name" : "スライム・エンジェル"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-052",
+    "name" : "トロ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-053",
+    "name" : "オルトロス"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-054",
+    "name" : "アルラ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-055",
+    "name" : "アルラウネ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-056",
+    "name" : "鬼竜骨"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-057",
+    "name" : "ネクロ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-058",
+    "name" : "ネクロドラゴ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-059",
+    "name" : "鬼竜ネクロドラゴン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-060",
+    "name" : "天戦士クレイ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-061",
+    "name" : "天騎士クレイ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-062",
+    "name" : "カマエル"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-063",
+    "name" : "能天使カマエル"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-064",
+    "name" : "ライム"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-065",
+    "name" : "ライム・ジェスター"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-066",
+    "name" : "トリケラ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-067",
+    "name" : "恐竜戦士トリケラ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-068",
+    "name" : "ケルヌンノス"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-069",
+    "name" : "死霊使いワイト"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-070",
+    "name" : "イシス"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-071",
+    "name" : "巨天使メタトロン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-072",
+    "name" : "巨天使サンダルフォン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-073",
+    "name" : "大地の勇者ロック"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-074",
+    "name" : "光王エーリュシオン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-075",
+    "name" : "聖なるタマゴ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-076",
+    "name" : "アーク"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-077",
+    "name" : "アークドラン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-078",
+    "name" : "聖竜アークドラゴン"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-079",
+    "name" : "ラコーラ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-080",
+    "name" : "魔公ラコーラ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-081",
+    "name" : "天空騎士クレイ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-082",
+    "name" : "研究者カイス"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-083",
+    "name" : "ラダ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-084",
+    "name" : "ラダマンティス"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-085",
+    "name" : "死神ラダマンティス"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-086",
+    "name" : "アザゼル"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-087",
+    "name" : "シェムハザ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-088",
+    "name" : "天地騎士クレイ"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-089",
+    "name" : "赤き使徒カマエル"
+  },
+  {
+    "chapter" : 6,
+    "number" : "OB06-090",
+    "name" : "聖帝エーリュシオン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-001",
+    "name" : "ヤタガラス"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-002",
+    "name" : "カマイタチ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-003",
+    "name" : "チョゴ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-004",
+    "name" : "チョハッカイ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-005",
+    "name" : "バク"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-006",
+    "name" : "夢獣バク"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-007",
+    "name" : "バロ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-008",
+    "name" : "聖獣バロン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-009",
+    "name" : "汚れたタマゴ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-010",
+    "name" : "クズ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-011",
+    "name" : "グズリ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-012",
+    "name" : "グズリュー"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-013",
+    "name" : "神竜クズリュウ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-014",
+    "name" : "猿石"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-015",
+    "name" : "イシザル"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-016",
+    "name" : "ソンゴクウ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-017",
+    "name" : "斉天大聖ソンゴクウ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-018",
+    "name" : "剣客ヒエン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-019",
+    "name" : "剣豪ヒエン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-020",
+    "name" : "ゴエモン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-021",
+    "name" : "義賊ゴエモン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-022",
+    "name" : "イチ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-023",
+    "name" : "風魔の壱"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-024",
+    "name" : "ウーフー"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-025",
+    "name" : "拳士ウーフー"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-026",
+    "name" : "ナマハゲ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-027",
+    "name" : "荒鬼ナマハゲ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-028",
+    "name" : "ナタ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-029",
+    "name" : "ナタク"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-030",
+    "name" : "ワルキューレ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-031",
+    "name" : "戦乙女ワルキューレ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-032",
+    "name" : "サゴジョウ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-033",
+    "name" : "ブーデ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-034",
+    "name" : "伝説の竜騎士レオン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-035",
+    "name" : "抜忍の零"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-036",
+    "name" : "オーディン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-037",
+    "name" : "調和神クリシュナ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-038",
+    "name" : "牛魔王"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-039",
+    "name" : "雷神竜ククルカン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-040",
+    "name" : "魔皇マオタイ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-041",
+    "name" : "カゲ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-042",
+    "name" : "忍者カゲロー"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-043",
+    "name" : "鬼獣ランダ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-044",
+    "name" : "ヤンロン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-045",
+    "name" : "陽龍ヤンシェンロン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-046",
+    "name" : "ビンボーガミ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-047",
+    "name" : "ナタタイシ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-048",
+    "name" : "財神アメト"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-049",
+    "name" : "邪拳士リュウロン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-050",
+    "name" : "邪帝マオタイ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-051",
+    "name" : "アマノジャク"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-052",
+    "name" : "ネコマネキネコ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-053",
+    "name" : "白黒タマゴ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-054",
+    "name" : "ヤンシャオロン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-055",
+    "name" : "インシャオロン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-056",
+    "name" : "ヤン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-057",
+    "name" : "イン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-058",
+    "name" : "クロミコ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-059",
+    "name" : "クロヌシ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-060",
+    "name" : "竜戦士リント"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-061",
+    "name" : "竜剣士リント"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-062",
+    "name" : "ククル"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-063",
+    "name" : "龍人ククル"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-064",
+    "name" : "ベーマス"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-065",
+    "name" : "竜人ベーマス"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-066",
+    "name" : "リザー"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-067",
+    "name" : "リザド"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-068",
+    "name" : "蛇闘士リザド"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-069",
+    "name" : "剣聖ヒエン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-070",
+    "name" : "御庭番の壱"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-071",
+    "name" : "拳王ウーフー"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-072",
+    "name" : "ブリュンヒルデ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-073",
+    "name" : "疾風の勇者ハヤテ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-074",
+    "name" : "龍巫師ライシーヤ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-075",
+    "name" : "放浪の竜騎士レオン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-076",
+    "name" : "渾沌龍タイチーロン"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-077",
+    "name" : "ミコト・ヤマト"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-078",
+    "name" : "真の勇者タンタ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-079",
+    "name" : "迅竜剣士リント"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-080",
+    "name" : "龍神主ククル"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-081",
+    "name" : "竜太人ベーマス"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-082",
+    "name" : "時空の神託者ライシーヤ"
+  },
+  {
+    "chapter" : 7,
+    "number" : "OB07-083",
+    "name" : "覇星神ライシーヤ"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-001",
+    "name" : "クリスタルドラゴン"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-002",
+    "name" : "ダイダラボッチ"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-003",
+    "name" : "舞王ナタラジャ"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-004",
+    "name" : "幽鬼ジャンヌ"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-005",
+    "name" : "時元銃士ダルタン"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-006",
+    "name" : "騎士団長エンキ"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-007",
+    "name" : "絢爛竜ククルカン"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-008",
+    "name" : "薄氷の剣士ダンテ"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-009",
+    "name" : "灼熱剣士アレス"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-010",
+    "name" : "ケロゴン"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-011",
+    "name" : "鋏竜サリガリオン"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-012",
+    "name" : "ゾンビ―くん"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-013",
+    "name" : "ゴクオーくん"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-014",
+    "name" : "パスカル先生"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-015",
+    "name" : "神邪エイル"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-016",
+    "name" : "ジンジャーエイル"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-017",
+    "name" : "ジンジャーラムネイル"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-018",
+    "name" : "魔主ジンジャーエイル"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-019",
+    "name" : "魔竜ジンジャーエイル"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-020",
+    "name" : "魔王ジンジャーエイル"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-021",
+    "name" : "エメラルドドラゴン"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-022",
+    "name" : "ブラック・レッドドラゴン"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-023",
+    "name" : "ホワイト・ブルードラゴン"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-024",
+    "name" : "大魔王アズール"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-025",
+    "name" : "大魔王サッカーラ"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-026",
+    "name" : "大魔王ナナワライ"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-027",
+    "name" : "大魔王ムウス"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-028",
+    "name" : "真魔王チビムウス"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-029",
+    "name" : "紅のリヴィエール"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-030",
+    "name" : "ダンテズ・レッドドラゴン"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-031",
+    "name" : "祟竜ヤマタノオロチ"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-032",
+    "name" : "陰龍インシェンロン"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-033",
+    "name" : "天界竜バハムート"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-034",
+    "name" : "冥界竜ダークバハムート"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-035",
+    "name" : "崩壊竜ブラックドラゴン"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-036",
+    "name" : "銀月のルシフェル"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-037",
+    "name" : "金陽のミカエル"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-038",
+    "name" : "星の騎士ライト"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-039",
+    "name" : "融帝ダクラウ"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-040",
+    "name" : "不屈の闘士ロック"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-041",
+    "name" : "大魔皇ラフロイグ"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-042",
+    "name" : "永劫竜ウロボロス"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-043",
+    "name" : "預言者シビュラ"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-044",
+    "name" : "大魔皇クジェスカ"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-045",
+    "name" : "ケロゴン"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-046",
+    "name" : "創世竜プロトスタードラゴン"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-047",
+    "name" : "大魔皇トカイ"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-048",
+    "name" : "大魔皇マオタイ"
+  },
+  {
+    "chapter" : 8,
+    "number" : "OB08-049",
+    "name" : "創造神ロケーシャ"
+  }
+]
